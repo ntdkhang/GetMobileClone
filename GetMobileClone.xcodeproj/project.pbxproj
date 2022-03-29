@@ -11,6 +11,7 @@
 		42EAC6F427F2C14600EFE3CC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EAC6F327F2C14600EFE3CC /* ContentView.swift */; };
 		42EAC6F627F2C14900EFE3CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42EAC6F527F2C14900EFE3CC /* Assets.xcassets */; };
 		42EAC6F927F2C14900EFE3CC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42EAC6F827F2C14900EFE3CC /* Preview Assets.xcassets */; };
+		42EAC70027F2C39C00EFE3CC /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42EAC6FF27F2C39C00EFE3CC /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		42EAC6F327F2C14600EFE3CC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		42EAC6F527F2C14900EFE3CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42EAC6F827F2C14900EFE3CC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		42EAC6FF27F2C39C00EFE3CC /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				42EAC6F127F2C14600EFE3CC /* GetMobileCloneApp.swift */,
 				42EAC6F327F2C14600EFE3CC /* ContentView.swift */,
+				42EAC6FF27F2C39C00EFE3CC /* HomeView.swift */,
 				42EAC6F527F2C14900EFE3CC /* Assets.xcassets */,
 				42EAC6F727F2C14900EFE3CC /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				42EAC70027F2C39C00EFE3CC /* HomeView.swift in Sources */,
 				42EAC6F427F2C14600EFE3CC /* ContentView.swift in Sources */,
 				42EAC6F227F2C14600EFE3CC /* GetMobileCloneApp.swift in Sources */,
 			);
